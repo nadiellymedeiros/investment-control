@@ -1,0 +1,28 @@
+.table {
+  width: 100%;
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0px 0px 5px #ccc;
+  border-radius: 5px;
+  max-width: 1200px;
+  margin: 20px auto;
+
+  border-collapse: separate;
+  text-indent: initial;
+  border-spacing: 2px;
+}
+
+.tr {
+  display: flex;
+  vertical-align: inherit;
+  border-color: inherit;
+
+  font-weight: bold;
+}
+
+.th {
+  text-align: start;
+  border-bottom: inset;
+  padding-bottom: 1rem;
+  width: 1200px;
+}

@@ -1,0 +1,19 @@
+.tr {
+  display: flex;
+
+  /* gap: 1rem; */
+}
+
+.td {
+  padding-top: 15px;
+
+  text-align: start;
+  word-break: break-all;
+  width: 1200px;
+}
+
+svg {
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+}
